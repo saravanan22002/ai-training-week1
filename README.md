@@ -10,3 +10,4 @@ This repository contains my Python training tasks.
 - Monthly sales line chart
 
 ## Project Status: Initial setup
+## Project Status: Feature branch update
